@@ -77,4 +77,4 @@ cv2.destroyAllWindows()
 
 if intruder==True:
     whatsapp()
-    send_email("tashdumdum@gmail.com", "tashavergiskr@gmail.com")
+    send_email("harinikanupuri@gmail.com")
